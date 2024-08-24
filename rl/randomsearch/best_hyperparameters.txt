@@ -1,0 +1,8 @@
+gamma: 0.99
+tau: 0.02
+alpha: 0.4
+lr: 0.0003
+memory_size: 1000000
+batch_size: 128
+Average Reward: 98.85994887742996
+agent: <__main__.SAC object at 0x000002B565F12060>
